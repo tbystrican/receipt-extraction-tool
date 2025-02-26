@@ -5,7 +5,7 @@ A robust Python tool for extracting receipts from PDF documents using computer v
 This tool automates the process of identifying and extracting receipts from scanned PDF documents. It works in two main stages:
 
 1. Converting PDF pages to high-quality images
-2. Using AI vision models to detect and extract individual receipts from these images
+2. Using Venice.AI API vision model to detect and extract individual receipts from these images
 
 ## Features
 - PDF to image conversion with customizable DPI and quality settings
@@ -17,7 +17,7 @@ This tool automates the process of identifying and extracting receipts from scan
 
 ## Requirements
 - Python 3.7+
-- OpenAI API key (for Venice.ai API access)
+- Venice.ai API key (for Venice.ai API access)
 - Required Python packages (see requirements.txt)
 
 
