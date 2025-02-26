@@ -1,0 +1,6 @@
+fitz
+numpy
+openai
+opencv_python
+Pillow
+pymupdf
