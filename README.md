@@ -1,5 +1,5 @@
 # Receipt Extraction Tool
-A robust Python tool for extracting receipts from PDF documents using computer vision and AI.
+A Python tool for extracting receipts from PDF documents using computer vision and AI.
 
 ## Overview
 This tool automates the process of identifying and extracting receipts from scanned PDF documents. It works in two main stages:
